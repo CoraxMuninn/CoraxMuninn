@@ -12,11 +12,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=CoraxMuninn&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoraxMuninn&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<h3 align="center">✍️ Random Dev Quote</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CoraxMuninn&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+<h3 align="center">🔝 Top Contributed Repo</h3>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=CoraxMuninn&limit=5&theme=blue-green&combine_all_yearly_contributions=true" />
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DariushOps&icon=0&color=0)](https://visitcount.itsvg.in)
